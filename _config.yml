@@ -150,8 +150,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-scheme: Mist
+scheme: Muse
+#scheme: Mist
 #scheme: Pisces
 
 
@@ -228,9 +228,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: /assets/images/github.png
-  CSDN: /assets/images/csdn.png
-  ZhiHu: /assets/images/zhihu.png
+  GitHub: github
+  CSDN: blind
+  ZhiHu: quora
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
