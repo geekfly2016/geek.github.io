@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 8
+paginate: 10
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -78,7 +78,7 @@ gems:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "geekfly, NexT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -518,7 +518,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
